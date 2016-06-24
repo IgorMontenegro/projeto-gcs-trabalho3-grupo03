@@ -1,12 +1,7 @@
-﻿• Nome artefato: RequisitosIniciais.txt
+• Nome artefato: RequisitosStakeholders.txt
 • Nome do(a) autor(a): Igor Cavalcante Montenegro Cerqueira
 • Data de criação: 23/06/2016
-• ALTERAÇÃO TAREFA 15
 • Hora de criação: 20:15
 
 
-
-
-
-
-
+documento criado no ramo2
